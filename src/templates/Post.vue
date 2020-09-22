@@ -10,7 +10,7 @@
               <h1>{{$page.post.title}}</h1>
               <h2 class="subheading">Problems look mighty small from 150 miles up</h2>
               <span class="meta">
-                Posted by
+                Posted by 
                 <a href="#">{{$page.post.created_by.firstname}}{{$page.post.created_by.lastname}}</a>
                 on {{$page.post.created_at}}
               </span>
